@@ -1,0 +1,16 @@
+.btn-outline-secondary {
+
+    position: absolute;
+    transition: .5s;
+    margin-left: 200px;
+    padding: 10px;
+
+}
+
+.btn-primary {
+    position: absolute;
+    transition: .5s;
+    margin-right: 200px;
+    padding: 10px;
+
+}
